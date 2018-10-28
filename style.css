@@ -34,7 +34,7 @@
     margin-top: 20px;
     margin-left: 30px;
 }
-.con{
+.lg{
     margin-top: 10px;
     height: 460px;
 }
@@ -47,7 +47,7 @@
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .my-bio{
-    margin-left: 20px;
+    margin-left: 100px;
     color: #777777;
     width: 500px;
 }
@@ -57,6 +57,14 @@
 .btn-primary{
     background-color: #4aaaa5 !important;
     border-color: #4aaaa5 !important;
+ 
+}
+.flex-row{
+    /* margin-top: 30px; */
+    margin: 20px;
+}
+.p-2{
+    margin: 0px 30px;
 }
 footer{
     clear: both;
