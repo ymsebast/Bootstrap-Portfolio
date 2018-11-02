@@ -38,6 +38,9 @@
     margin-top: 10px;
     height: 460px;
 }
+.small{
+    margin-right: 550px;
+}
 .main-title{
     font-size: 28px;
     padding: 20px;
@@ -47,10 +50,11 @@
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .my-bio{
-    margin-left: 100px;
+    margin-left: 170px;
     color: #777777;
-    width: 500px;
+    width: 400px;
 }
+
 .contact{
     padding:0px 20px;
 }
@@ -65,6 +69,17 @@
 }
 .p-2{
     margin: 0px 30px;
+}
+.box-title{
+    position: absolute;
+    width: 150px;
+    text-align: center;
+    top: 250px;
+    background-color:#4aaaa5;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    z-index: 3;
 }
 footer{
     clear: both;
